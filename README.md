@@ -9,7 +9,7 @@ Confira tudo no canal do 'Téo Me Why' no youtube. Segue o link:
 agora eu ja cansei de fazer tudo igual o dele, mas eu to entendendo bem as explicações dele
 TMW é brabo
 
-----
+c----
 
 ## Fluxo de trabalho Git local**
 1. git checkout -b
