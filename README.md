@@ -2,7 +2,9 @@
 
 Um curso para iniciantes aprenderem a trabalhar com versionamento de código e repositórios remotos com GitHub.
 
-Confira tudo no canal do 'Téo Me Why' no youtube
+Confira tudo no canal do 'Téo Me Why' no youtube. Segue o link:
+
+[Curso Git 2025](https://www.youtube.com/@teomewhy)
 
 ----
 
