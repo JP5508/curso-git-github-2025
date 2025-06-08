@@ -6,6 +6,9 @@ Confira tudo no canal do 'Téo Me Why' no youtube. Segue o link:
 
 [Curso Git 2025](https://www.youtube.com/@teomewhy)
 
+agora eu ja cansei de fazer tudo igual o dele, mas eu to entendendo bem as explicações dele
+TMW é brabo
+
 ----
 
 ## Fluxo de trabalho Git local**
